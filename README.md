@@ -1,2 +1,2 @@
 # 2022_1_22.LSB
-This was the first warehouse where I learned "C"
+这是我学习C语言的第一个仓库
